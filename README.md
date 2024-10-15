@@ -5,9 +5,8 @@
 ## OSMnxとは？
 OSMnx is pronounced as the initialism: “oh-ess-em-en-ex”. It is built on top of NetworkX and GeoPandas, and interacts with OpenStreetMap APIs to:
 
-```
+（訳）
 OSMnx は、頭文字をとって「オーエスエムエンエクス」と発音されます。 NetworkX と GeoPandas をベースに構築されており、OpenStreetMap API と連携して次の操作を行います。
-```
 
 https://osmnx.readthedocs.io/en/stable/getting-started.html#introducing-osmnx
 
@@ -25,7 +24,10 @@ https://openstreetmap.jp/node/762
 OSMnxからも使えるが、v2以降はdeprecated
 
 ## インストール
+
+```bash
 $ pip install osmnx matplotlib jupyterlab
 $ pip install networkx geopandas folium
 $ pip install scikit-learn
 $ jupyter lab
+```
