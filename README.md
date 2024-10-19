@@ -1,7 +1,5 @@
 # Turn Lefter
 
-左折だけで目的地に行きたい
-
 ## OSMnxとは？
 OSMnx is pronounced as the initialism: “oh-ess-em-en-ex”. It is built on top of NetworkX and GeoPandas, and interacts with OpenStreetMap APIs to:
 
@@ -27,7 +25,7 @@ OSMnxからも使えるが、v2以降はdeprecated
 
 ```bash
 $ pip install osmnx matplotlib jupyterlab
-$ pip install networkx geopandas folium
+$ pip install networkx geopandas folium pyproj
 $ pip install scikit-learn
 $ jupyter lab
 ```
