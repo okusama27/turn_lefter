@@ -76,7 +76,7 @@ footer: "by okusama27: https://x.com/okusama27"
 <!--
 _backgroundColor: white
 -->
-# 道順を使って調べたい
+# 道順を調べたい
 
 ## OSMnx
 https://osmnx.readthedocs.io/en/stable/
