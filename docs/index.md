@@ -3,7 +3,20 @@ marp: true
 theme: gaia 
 footer: "by okusama27: https://x.com/okusama27"
 ---
-# ~~左折だけで~~ 安全に目的地に着きたい
+<style scoped>
+    h1 {
+        font-size: 100px;
+        padding-top: 150px;
+        padding-bottom: 100px;
+        text-align:center
+    }
+    p {
+        text-align: right
+    }
+</style>
+# 安全に目的地に着きたい
+
+2024-10-20 Kazuko Ohmura
 
 ---
 # 私は誰だ？
@@ -157,6 +170,7 @@ _backgroundColor: white
 ---
 # まとめ
 
+* 久しぶりに車に乗る人は、兎にも角にも **ペーパードライバー講習** を受けよう
 * 私が苦手なのは **右折** ではなくて **車線変更**
 * 目的地に着きたいなら、 **右折** もしたほうがいい
 * 埼玉県は道が広くて、どこでも駐車場があるので、東京都の100倍運転しやすい（個人の感想です）

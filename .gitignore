@@ -130,7 +130,6 @@ venv/
 winenv/
 cache/
 data/
-images/
 ENV/
 env.bak/
 venv.bak/
