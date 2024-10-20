@@ -106,11 +106,11 @@ _backgroundColor: white
 
 ![bg right:50%](images/osmnx1.png)
 
-# HENGEを中心とした半径600mの道路
+# HENNGEを中心とした半径600mの道路
 ```python
-# HENGE
-henge = 35.65495728145334, 139.69494603459512
-G = ox.graph_from_point(center_point=henge, 
+# HENNGE
+hennge = 35.65495728145334, 139.69494603459512
+G = ox.graph_from_point(center_point=hennge, 
                         dist=600,  # meters 
                         network_type="drive",
                        simplify=True
@@ -125,7 +125,7 @@ _backgroundColor: white
 
 ![bg right:50%](images/osmnx2.png)
 
-# 渋谷駅からHENGEまでの最短距離
+# 渋谷駅からHENNGEまでの最短距離
 
 ```
 # 最短経路を取得
