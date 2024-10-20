@@ -23,10 +23,8 @@ footer: "by okusama27: https://x.com/okusama27"
 
 ![bg right w:200](images/cow.png)
 
-* **かめちゃん** 
-* PyLadies Tokyo のスタッフ
-* Pythonのプログラムを書ける気になっている人
-
+**かめちゃん** です。
+PyLadies Tokyo のスタッフ
 
 ---
 # 車を買いました
